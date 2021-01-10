@@ -8,6 +8,8 @@ This is the second description.
 
 ## Purpose 
 
+description here as well.
+
 ## Deployment 
 
 ## How to Contribute
