@@ -15,3 +15,5 @@ description here as well...
 Deployment description
 
 ## How to Contribute
+
+## Copyright Notice Secion added 
