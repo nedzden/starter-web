@@ -16,6 +16,8 @@ Deployment description
 
 ## How to Contribute
 
-Pleas Fork this repo and then issue pull Request for review. 
+Pleas Fork this repo and then issue pull Request for review.  
 
 ## Copyright Notice Secion added 
+
+Adding a line for rebasing example. 
